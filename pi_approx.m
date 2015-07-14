@@ -1,6 +1,6 @@
-%Suppose you stand with  blindfolded and thraw pebbles in a square region drawn in the sand
+%Suppose you stand blindfolded and throw pebbles in a square region drawn in the sand
 %inside the square lies a circle with center at the center of the square and radius 1/2
-%suppose that you thraw M pebbles towards the square and when you are finished you unfold your eyes
+%suppose that you throw M pebbles towards the square and when you are finished you unfold your eyes
 %you count all the pebbles that lie inside the square let us say N and the pebbles that lie inside the circle
 %let us say O. An approximation of π=3.14159... can be given by the formula (O/N)*4
 %Let the player choose how many pebbles he will throw
