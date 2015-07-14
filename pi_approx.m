@@ -1,4 +1,4 @@
-%Suppose you stand with your eyes blindfolded and thraw pebbles in a square region drawn in the sand
+%Suppose you stand with  blindfolded and thraw pebbles in a square region drawn in the sand
 %inside the square lies a circle with center at the center of the square and radius 1/2
 %suppose that you thraw M pebbles towards the square and when you are finished you unfold your eyes
 %you count all the pebbles that lie inside the square let us say N and the pebbles that lie inside the circle
